@@ -15,6 +15,7 @@
   "author": "Divya Mathur",
   "license": "MIT",
   "dependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "@reach/router": "^1.2.1",
     "babel-cli": "^6.26.0",
     "express": "^4.16.4",
