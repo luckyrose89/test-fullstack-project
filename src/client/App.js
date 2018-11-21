@@ -7,9 +7,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Link to="/">
           <h1>Hello from React!!</h1>
-        </Link>
         <Router>
           <Drumbeat path="drumbeat" />
           <Second path="second" />
